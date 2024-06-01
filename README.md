@@ -1,8 +1,9 @@
-This is the *Case Converter* project I made myself.
+❤️❤️ To Do List Project only with JavaScript by Hyperskill ❤️❤️
 
+We work with texts quite often, and it's very sad when it turns out that the text should have been written in a different case. Instead of editing it, you can use this simple application that does the job for us. Modify your text into Lowercase, Uppercase, Propercase, save and download if wanted.
 
-<p>We work with texts quite often, and it's very sad when it turns out that the text should have been written in a different case. Instead of editing it, you can create a simple application that does the job for us.</p><br/><br/>Learn more at <a href="https://hyperskill.org/projects/193?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card">https://hyperskill.org/projects/193</a>
+-JS Dom Methods, Event Handlers, JSON, String Methods
 
-Here's the link to the project: https://hyperskill.org/projects/193
+-JS Loops, Conditionals, Variables, Operators, Functions, Arrays
 
-Check out my profile: https://hyperskill.org/profile/612858862
+-HTML Buttons
